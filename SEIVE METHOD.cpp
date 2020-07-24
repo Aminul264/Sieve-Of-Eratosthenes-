@@ -1,4 +1,5 @@
 // prime numbers from 1 to n using sieve method
+
 #include<bits/stdc++.h>
 using namespace std;
 #define  size 1002
